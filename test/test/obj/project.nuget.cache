@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gzVKWTwOsEQDVrycm1EhYfsMzTTH5FTkRYoOwWMVBiUQBiztyD9eWlGrrCzEaXkvm7xoIm3jkVMKcmIRXxZheQ==",
+  "dgSpecHash": "lEXtNiCko+GSsLY9ri30dkGmSBSVYkK2WZ7GfHass2r+GO5dVWg9TNI2ga8IJwGPoQrTQ4ByCyvfY03zIaGw3Q==",
   "success": true,
-  "projectFilePath": "D:\\VS 專案\\test\\test\\test.csproj",
+  "projectFilePath": "D:\\git\\test\\test\\test.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
